@@ -1,0 +1,22 @@
+
+Let me introduce myself first, Hi I'm Uvindu kavishka (@Brightside) . Undergraduate student of SLIIT in Sri Lanka. This is my first GitHub project. And I used python language for this. I learned python by myself watching some tutorials and reading some articles, So if there are any issue please be kind to leave a feedback. THANK YOU!
+
+
+
+
+
+
+
+
+Input the IP address and when you press enter it shows the results.
+
+****** Internet connection must be available for this application******
+
+
+When you enter the Ip address, it shows the " Longtitude and latitude " of the given ip address. After that the longtitude and latitude getting as the input and shows the address. 
+
+
+## Enjoy ##
+
+
+@Brightside
