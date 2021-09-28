@@ -1,5 +1,5 @@
 
-Let me introduce myself first, Hi I'm Uvindu kavishka (@Brightside) . Undergraduate student of SLIIT in Sri Lanka. This is my first GitHub project. And I used python language for this. I learned python by myself watching some tutorials and reading some articles, So if there are any issue please be kind to leave a feedback. THANK YOU!
+Let me introduce myself first, Hi I'm Uvindu kavishka (@Brightseid) . Undergraduate student of SLIIT in Sri Lanka. This is my first GitHub project. And I used python language for this. I learned python by myself watching some tutorials and reading some articles, So if there are any issue please be kind to leave a feedback. THANK YOU!
 
 
 
